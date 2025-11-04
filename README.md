@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddesh B</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-- 🔭 I’m currently working on **ApanaGhr**
+- 🔭 Former Intern at **ApanaGhr**
 
 - 🌱 I’m currently learning **DSA**
 
